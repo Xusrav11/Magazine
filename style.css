@@ -1,0 +1,195 @@
+body {
+  background: url("https://cdn.pixabay.com/photo/2016/11/28/23/41/fruits-1866321_1280.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+*{
+	margin: 1;
+	padding: 0;
+	box-sizing: border-box;
+	list-style: none;
+	text-decoration: none;
+}
+.title h1{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 40px;
+	color: #fcfffc;
+	margin-bottom: 50px;
+}
+.list_menu a{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 25px;
+	color: #fcfffc;
+	border-left: 2px solid #F5B7C7;
+	transition: 0.2s ease;
+	padding-left: 5px;
+}
+.list_menu a:hover{
+	border-left: 2px solid #f5b7c7;
+	transition: 0.2s ease;
+	padding-left: 10px;
+}
+.list_menu li{
+	margin: 20px 0;
+}
+.list_menu{
+	margin-bottom: 50px;
+}
+.menu{
+	padding: 25vh 50px;
+	background: rgba(20, 20, 20, 0.5);
+	height: 100vw;
+	border-right: 7px solid #fff;
+	position: fixed;
+	left: -346px;
+	transition: 0.4s ease;
+}
+.menu:hover{
+	left: 0;
+	transition: 0.5s ease;
+}
+.footer_menu p{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 15px;
+	color: #fcfffc;
+	opacity: 0.7;
+}
+.menu {
+  top: 0px;
+}
+
+
+
+ h2 {
+   padding-left: 600px;
+   font-size: 35px;
+   color: black;
+   font-family: monospace;
+   margin-bottom: -35px;
+ }
+h3{
+  font-size:30px;
+  padding-left: 620px;
+  font-family: monospace;
+}
+h4{
+  padding-left: 600px;
+}
+h5{
+  padding-left: 540px;
+  font-size: 20px;
+  font-family: monospace;
+  margin-bottom: -56px;
+}
+ul h6{
+   padding-left: 540px;
+   font-size: 20px;
+   margin-bottom: -81px;
+   font-family: monospace;
+}
+ul a {
+  padding-left: 805px;
+}
+ul p {
+  font-size: 40px;
+  padding-left: 767px;
+  margin-bottom: -35px;
+}
+
+
+
+ul img {
+   margin-top: -0.2vw;
+}
+
+
+.button {
+  position: absolute;
+  background-color: orange;
+  color: black;
+  text-decoration: none;
+  padding: 9px  1px;
+  right: 530px;
+  transition: 0.2s linear;
+  margin-top: -0.5vw;
+
+
+
+
+}
+
+ .button:hover {
+   transition: 0.2 linear;
+   background-color: gray;
+ }
+
+.p {
+  padding-left: 540px;
+  font-family: monospace;
+  font-size: 20px;
+  font-weight: 550;
+  margin-top: -1vw;
+}
+
+.text{
+    font-size: 40px;
+    padding-left: 677px;
+    margin: 10px;
+    margin-top: -4.41vw
+}
+
+
+
+
+.images {
+     display: flex;
+    padding-left: 400px;
+
+}
+
+.image {
+
+
+   margin-right: 31px;
+}
+
+
+.image2 {
+
+
+   margin-right: 31px;
+}
+
+.image3 {
+
+
+   margin-right: 31px;
+}
+
+
+
+
+.images1 {
+     display: flex;
+    padding-left: 315px;
+    padding-top: 2vw;
+}
+
+.image4 {
+
+
+   margin-right: 31px;
+}
+
+
+.image5 {
+
+
+   margin-right: 31px;
+}
+
+.image6 {
+
+
+   margin-right: 31px;
+}
